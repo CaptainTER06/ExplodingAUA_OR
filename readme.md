@@ -1,2 +1,5 @@
-This is the agent for using the ExplodingAU website.\
-Access it through this link: https://explodingbottle.github.io/explodingauweb/v1/
+Project of the CopperCart Update website v4.
+
+2023 - OverRender.com
+
+(C) ExplodingBottle
